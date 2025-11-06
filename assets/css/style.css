@@ -74,7 +74,7 @@ img {
 /* Common Icon Button Styles */
 .icon-btn {
   position: fixed;
-  right: 30px;
+  right: 5px;
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -4571,7 +4571,7 @@ h3 {
 /* Contact Title CSS End */
 /* Contact Info CSS Start */
 .contact-info {
-  margin-bottom: -150px;
+  margin-bottom: 50px;
 }
 
 .contact-info .contact-card-area {
